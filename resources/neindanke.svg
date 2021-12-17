@@ -30,9 +30,9 @@
      fit-margin-left="0"
      fit-margin-right="5"
      fit-margin-bottom="5"
-     inkscape:zoom="0.91706047"
-     inkscape:cx="202.27674"
-     inkscape:cy="305.32338"
+     inkscape:zoom="0.93560728"
+     inkscape:cx="303.01175"
+     inkscape:cy="306.75264"
      inkscape:window-width="1422"
      inkscape:window-height="832"
      inkscape:window-x="2016"
@@ -62,9 +62,8 @@
        ry="52.916664" />
     <path
        id="rect1483"
-       style="fill:#000000;stroke:#000000;stroke-width:3.77953"
-       d="M 190,200 V 490 H 369.23047 V 200 Z m 10,10 H 360 V 420 H 200 Z"
-       transform="scale(0.26458333)" />
+       style="fill:#000000;stroke:#000000;stroke-width:1"
+       d="M 50.270828,52.916668 V 129.64583 H 97.692222 V 52.916668 Z m 2.645833,2.645833 H 95.249994 V 111.125 H 52.916661 Z" />
     <g
        id="g12928"
        transform="translate(2.6630149,3.033128)">
