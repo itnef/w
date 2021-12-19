@@ -148,7 +148,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"Press SPACE or touch here to open surprise (you'll need to click and focus the frame to play)"
+                 "value":"Press SPACE or touch here to open surprise. You'll need to click and focus the frame to play \/ Du musst evtl. einmal auf die neue Seite klicken, um das Spiel zu steuern"
                 }],
          "type":"tilelayer",
          "visible":true,
