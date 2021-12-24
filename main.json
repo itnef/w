@@ -100,6 +100,12 @@
          "id":5,
          "name":"exit",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":""
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
@@ -606,6 +612,12 @@
  "nextlayerid":31,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"mapCopyright",
+         "type":"string",
+         "value":"BY-NC-SA https:\/\/creativecommons.org\/licenses\/by-nc-sa\/4.0\/ Hamburg Werbefrei"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.8.0",
  "tileheight":32,
