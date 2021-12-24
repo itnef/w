@@ -74,11 +74,6 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsTriggerMessage",
-                 "type":"string",
-                 "value":"Enter Jitsi (Adfree Forum Meeting Room 2) ..."
-                }, 
-                {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"AdFreeForumMeeting2"
@@ -87,6 +82,11 @@
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"Enter Jitsi (Adfree Forum Meeting Room 2) ..."
                 }],
          "type":"tilelayer",
          "visible":true,
