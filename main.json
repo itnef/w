@@ -104,7 +104,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<lobby>\/lounge\/main.json}"
+                 "value":"world:\/\/lobby\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
