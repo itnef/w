@@ -608,6 +608,12 @@
          "imagewidth":576,
          "margin":0,
          "name":"cija_32x32_expansion for Pipoya_CC0",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0 see https:\/\/tiles.rc3.world\/community\/bytewerk\/LICENSE"
+                }],
          "spacing":0,
          "tilecount":2394,
          "tileheight":32,
@@ -1037,6 +1043,12 @@
          "imagewidth":2048,
          "margin":0,
          "name":"water",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"WorkAdventure <https:\/\/workadventu.re\/> \nLincense: WORKADVENTURE SPECIFIC RESOURCES LICENSE (see LICENSE.assets file)"
+                }],
          "spacing":0,
          "tilecount":3072,
          "tileheight":32,
@@ -28700,6 +28712,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"cert_safety",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":""
+                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
@@ -28714,6 +28732,12 @@
          "imagewidth":450,
          "margin":0,
          "name":"neindanke",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0 https:\/\/creativecommons.org\/share-your-work\/public-domain\/cc0\/"
+                }],
          "spacing":0,
          "tilecount":196,
          "tileheight":32,
@@ -28727,6 +28751,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"extra_zeugs",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0 https:\/\/creativecommons.org\/share-your-work\/public-domain\/cc0\/"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
