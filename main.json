@@ -104,7 +104,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/lobby\/main.json"
+                 "value":"world:\/\/lobby\/floppy-landfill.json#start_ferry"
                 }],
          "type":"tilelayer",
          "visible":true,
